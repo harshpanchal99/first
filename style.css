@@ -1,0 +1,133 @@
+body
+{
+	margin: 0;
+}
+header
+{
+	background-color: black;
+	color: white;
+	padding: 8px 0px 6px 40px; 
+	height : 50px;
+}
+header h1
+{
+	display: inline;
+	font-family: "ariel",sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+nav ul	
+{
+	display: inline; 
+	padding: 0px;
+	float: left;
+	margin-top: 25px;
+
+}
+nav ul li
+{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 10px;
+
+}
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+
+}
+
+#nav
+{ 
+	font-family: "verdana",sans-serif;   
+}
+
+.homered:hover
+{
+	background-color: red;
+	padding: 40px 10px 11px 10px;
+	
+}
+
+.homegreen:hover
+{
+	background-color: green;
+	padding: 40px 10px 11px 10px;
+}
+
+.homeblue:hover
+{
+background-color: blue;
+	padding: 40px 10px 11px 10px;	
+}
+.homepurple:hover
+{
+	background-color: purple;
+	padding: 40px 10px 11px 10px;
+}
+
+.line
+{
+	background-color: grey;
+	height: 5px;
+} 
+.fwimage
+{
+	background-image: url(images/Lighthouse.jpg) ;
+	width: 100%;
+	height: 100%; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.homesub
+{
+	font-family: "verdana",sans-serif;
+	margin: 0;
+	padding: 9% 5% 0% 55%;
+	font-size: 18px;
+	color: black;
+}
+.homedes
+{
+	font-family: "verdana",sans-serif;
+	margin: 0.5% 0% 0% 55%;
+ 	font-size: 75px; 
+ 	color: darkgreen;
+ 	background-color: rgba(30 ,0 , 0, 0.4);
+ 	display: inline-block;
+}
+.homepho
+{
+	font-family: "ariel",sans-serif;
+	margin: 0.5% 0% 0% 55%;
+	font-size: 64px;
+	color: black;
+	display: inline-block;	
+}
+.butonhome
+{
+	margin: 0.9% 0% 0% 72%;
+	background-color: lightblue;
+	color: black;
+	border: none;
+	height: 50px;
+	font-size: 20px;
+	padding: 0px 15px;
+	cursor: pointer;
+	outline-color: darkblue;
+}
+.high
+{
+	text-decoration: none;
+	color:black;
+
+}

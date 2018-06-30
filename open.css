@@ -1,0 +1,35 @@
+body{
+	font-family: sans-serif;
+
+}
+h1
+{
+	text-align: center;
+	color: forestgreen;
+	margin: 30px 0px 50px ;
+	
+}
+.gallery
+{
+	padding-left: 20%;
+	margin: 10px 50px ;
+	width: 900px;
+	height: 350px;
+	
+}
+.gallery img
+{
+
+
+	width: 230px;
+	padding: 1px;
+	
+	transition: 1s;
+
+}
+.gallery img :hover
+{
+	
+	
+
+}
